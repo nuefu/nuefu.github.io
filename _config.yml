@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: b8aec84e39956b6e2a33                            #生成的clientID
   clientSecret: bddf9197df5fbfb3b900979884e6fc5ae39aab11    #生成的clientSecret
   repo: nuefuzai.github.io    #仓库名称
